@@ -1,0 +1,38 @@
+C:\Users\mirja\Desktop\.NET\excel reader\bin\Debug\net8.0-windows\excel reader.exe
+C:\Users\mirja\Desktop\.NET\excel reader\bin\Debug\net8.0-windows\excel reader.deps.json
+C:\Users\mirja\Desktop\.NET\excel reader\bin\Debug\net8.0-windows\excel reader.runtimeconfig.json
+C:\Users\mirja\Desktop\.NET\excel reader\bin\Debug\net8.0-windows\excel reader.dll
+C:\Users\mirja\Desktop\.NET\excel reader\bin\Debug\net8.0-windows\excel reader.pdb
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel_reader.Form1.resources
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.csproj.GenerateResource.cache
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.AssemblyInfoInputs.cache
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.AssemblyInfo.cs
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.csproj.CoreCompileInputs.cache
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.sourcelink.json
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.dll
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\refint\excel reader.dll
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.pdb
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.genruntimeconfig.cache
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\ref\excel reader.dll
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mirja\Desktop\.NET\excel reader\obj\Debug\net8.0-windows\excel reader.csproj.ResolveComReference.cache
+C:\Users\mirja\Desktop\.NET\treci\bin\Debug\net8.0-windows\excel reader.exe
+C:\Users\mirja\Desktop\.NET\treci\bin\Debug\net8.0-windows\excel reader.deps.json
+C:\Users\mirja\Desktop\.NET\treci\bin\Debug\net8.0-windows\excel reader.runtimeconfig.json
+C:\Users\mirja\Desktop\.NET\treci\bin\Debug\net8.0-windows\excel reader.dll
+C:\Users\mirja\Desktop\.NET\treci\bin\Debug\net8.0-windows\excel reader.pdb
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.csproj.ResolveComReference.cache
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel_reader.Form1.resources
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.csproj.GenerateResource.cache
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.AssemblyInfoInputs.cache
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.AssemblyInfo.cs
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.csproj.CoreCompileInputs.cache
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.sourcelink.json
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.dll
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\refint\excel reader.dll
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.pdb
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\excel reader.genruntimeconfig.cache
+C:\Users\mirja\Desktop\.NET\treci\obj\Debug\net8.0-windows\ref\excel reader.dll
