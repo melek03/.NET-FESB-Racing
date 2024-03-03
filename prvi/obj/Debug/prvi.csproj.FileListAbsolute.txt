@@ -1,0 +1,15 @@
+C:\Users\mirja\Desktop\prvi\bin\Debug\prvi.exe.config
+C:\Users\mirja\Desktop\prvi\bin\Debug\prvi.exe
+C:\Users\mirja\Desktop\prvi\bin\Debug\prvi.pdb
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.csproj.AssemblyReference.cache
+C:\Users\mirja\Desktop\prvi\obj\Debug\MainWindow.g.cs
+C:\Users\mirja\Desktop\prvi\obj\Debug\App.g.cs
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi_MarkupCompile.cache
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi_MarkupCompile.lref
+C:\Users\mirja\Desktop\prvi\obj\Debug\MainWindow.baml
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.g.resources
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.Properties.Resources.resources
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.csproj.GenerateResource.cache
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.csproj.CoreCompileInputs.cache
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.exe
+C:\Users\mirja\Desktop\prvi\obj\Debug\prvi.pdb
