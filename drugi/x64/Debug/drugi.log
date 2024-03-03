@@ -1,0 +1,5 @@
+﻿  drugi.c
+C:\Users\mirja\Desktop\drugi\drugi.c(55,3): warning C4047: 'return': 'PositionTree' differs in levels of indirection from 'int'
+C:\Users\mirja\Desktop\drugi\drugi.c(71,3): warning C4047: 'return': 'PositionTree' differs in levels of indirection from 'int'
+C:\Users\mirja\Desktop\drugi\drugi.c(121,24): warning C4098: 'addToFiles': 'void' function returning a value
+  drugi.vcxproj -> C:\Users\mirja\Desktop\drugi\x64\Debug\drugi.exe
