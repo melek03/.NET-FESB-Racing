@@ -1,0 +1,99 @@
+﻿<Window x:Class="baterije.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:baterije"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="first" HorizontalAlignment="Left" Height="250" Margin="49,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c1r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c1r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c1r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c1r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c1r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c1r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c1r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c1r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c1r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c1r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Grid x:Name="second" HorizontalAlignment="Left" Height="250" Margin="131,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c2r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c2r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c2r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c2r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c2r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c2r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c2r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c2r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c2r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c2r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Grid x:Name="third" HorizontalAlignment="Left" Height="250" Margin="211,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c3r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c3r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c3r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c3r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c3r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c3r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c3r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c3r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c3r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c3r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Grid x:Name="fourth" HorizontalAlignment="Left" Height="250" Margin="293,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c4r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c4r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c4r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c4r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c4r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c4r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c4r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c4r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c4r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c4r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Grid x:Name="fifth" HorizontalAlignment="Left" Height="250" Margin="373,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c5r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c5r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c5r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c5r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c5r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c5r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c5r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c5r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c5r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c5r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Grid x:Name="sixth" HorizontalAlignment="Left" Height="250" Margin="455,60,0,0" VerticalAlignment="Top" Width="76">
+            <Rectangle x:Name="c6r1" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+            <Rectangle x:Name="c6r2" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,25,0,0"/>
+            <Rectangle x:Name="c6r3" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,50,0,0"/>
+            <Rectangle x:Name="c6r4" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,76,0,0"/>
+            <Rectangle x:Name="c6r5" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,101,0,0"/>
+            <Rectangle x:Name="c6r6" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,126,0,0"/>
+            <Rectangle x:Name="c6r7" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,154,0,0"/>
+            <Rectangle x:Name="c6r8" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,180,0,0"/>
+            <Rectangle x:Name="c6r9" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,204,0,0"/>
+            <Rectangle x:Name="c6r10" HorizontalAlignment="Center" Height="20" Stroke="Black" VerticalAlignment="Top" Width="76" Margin="0,230,0,0"/>
+        </Grid>
+        <Button x:Name="btn_start" Content="Start" HorizontalAlignment="Left" Height="35" Margin="81,337,0,0" VerticalAlignment="Top" Width="184" Background="#FF001669" BorderBrush="{x:Null}" FontFamily="Franklin Gothic Heavy" FontSize="20" Foreground="White" Click="start_click"/>
+        <Button x:Name="btn_stop" Content="Stop" HorizontalAlignment="Center" Height="35" Margin="0,337,0,0" VerticalAlignment="Top" Width="184" Background="#FFAD1111" BorderBrush="{x:Null}" FontFamily="Franklin Gothic Heavy" FontSize="20" Foreground="White" Click="stop_click"/>
+        <Rectangle x:Name="twenty" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,110,0,0"/>
+        <Rectangle x:Name="twfive" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,135,0,0"/>
+        <Rectangle x:Name="thirty" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,160,0,0"/>
+        <Rectangle x:Name="thfive" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,185,0,0"/>
+        <Rectangle x:Name="forty" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,210,0,0"/>
+        <Rectangle x:Name="fofive" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,235,0,0"/>
+        <Rectangle x:Name="fifty" HorizontalAlignment="Left" Height="20" Stroke="Black" VerticalAlignment="Top" Width="40" Margin="605,260,0,0"/>
+        <Label Content="20°C" HorizontalAlignment="Left" Height="26" Margin="659,104,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="25°C" HorizontalAlignment="Left" Height="26" Margin="659,132,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="30°C" HorizontalAlignment="Left" Height="26" Margin="659,159,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="35°C" HorizontalAlignment="Left" Height="26" Margin="659,182,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="40°C" HorizontalAlignment="Left" Height="26" Margin="659,207,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="45°C" HorizontalAlignment="Left" Height="26" Margin="659,232,0,0" VerticalAlignment="Top" Width="51"/>
+        <Label Content="50°C" HorizontalAlignment="Left" Height="26" Margin="659,257,0,0" VerticalAlignment="Top" Width="51"/>
+    </Grid>
+</Window>

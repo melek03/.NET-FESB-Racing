@@ -1,0 +1,15 @@
+C:\Users\mirja\Desktop\baterije\bin\Debug\baterije.exe.config
+C:\Users\mirja\Desktop\baterije\bin\Debug\baterije.exe
+C:\Users\mirja\Desktop\baterije\bin\Debug\baterije.pdb
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.csproj.AssemblyReference.cache
+C:\Users\mirja\Desktop\baterije\obj\Debug\MainWindow.g.cs
+C:\Users\mirja\Desktop\baterije\obj\Debug\App.g.cs
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije_MarkupCompile.cache
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije_MarkupCompile.lref
+C:\Users\mirja\Desktop\baterije\obj\Debug\MainWindow.baml
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.g.resources
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.Properties.Resources.resources
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.csproj.GenerateResource.cache
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.csproj.CoreCompileInputs.cache
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.exe
+C:\Users\mirja\Desktop\baterije\obj\Debug\baterije.pdb
